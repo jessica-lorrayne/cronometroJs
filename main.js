@@ -1,0 +1,7 @@
+const minutos = document.getElementById('minutes')
+const segundos = document.getElementById('seconds')
+const milisegundos = document.getElementById('milleseconds')
+const btnStart = document.getElementById('startBtn')
+const btnReset = document.getElementById('resetBtn')
+const btnContinue = document.getElementById('continueBtn')
+const btnPause = document.getElementById('pauseBtn')
